@@ -6,7 +6,10 @@ ClassicModels 데이터 분석 : https://ggw2rhcckarapqsuny4nra.streamlit.app/ "
 ![Alt text](./main.PNG)
 
 ## 🔧 사용 기술
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### main 
 - sidebar에서 선택한 table이 보여집니다.
