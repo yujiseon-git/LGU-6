@@ -10,6 +10,7 @@ ClassicModels 데이터 분석 : https://ggw2rhcckarapqsuny4nra.streamlit.app/ "
 
 ### sidebar
 - 원하는 table을 선택할 수 있습니다.   
+
 | table list |
 |------------|
 |  customers |
@@ -23,6 +24,7 @@ ClassicModels 데이터 분석 : https://ggw2rhcckarapqsuny4nra.streamlit.app/ "
 |    sales   |
 
 - 표 통계
+
 
 > 첫번째 미션   
 >> sqlite3 생성 후, classicmodels 쿼리 추가 하는 방법   
