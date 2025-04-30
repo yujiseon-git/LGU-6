@@ -1,8 +1,8 @@
 # LGU +6 프로젝트
 
 ## ClassicModels 데이터 분석
-[ClassicModels 데이터 분석](https://ggw2rhcckarapqsuny4nra.streamlit.app/ "페이지 접속 https://ggw2rhcckarapqsuny4nra.streamlit.app/")
-![홈페이지](C:\Users\Admin\Desktop\LGU-6\main.png)
+[ClassicModels 데이터 분석](https://ggw2rhcckarapqsuny4nra.streamlit.app/ "ClassicModels 데이터 분석 홈페이지 접속')
+<img width= "150" scr="main.png">
 
 > 첫번째 미션
 > sqlite3 생성 후, classicmodels 쿼리 추가 하는 방법
