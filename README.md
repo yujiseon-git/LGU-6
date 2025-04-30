@@ -2,7 +2,7 @@
 
 ## ClassicModels 데이터 분석
 [ClassicModels 데이터 분석](https://ggw2rhcckarapqsuny4nra.streamlit.app/ "ClassicModels 데이터 분석 홈페이지 접속")
-![Alt text](C:\Users\Admin\Desktop\LGU-6\main.PNG)
+![Alt text](./main.PNG)
 
 > 첫번째 미션   
 >> sqlite3 생성 후, classicmodels 쿼리 추가 하는 방법   
