@@ -1,0 +1,16 @@
+numpy
+pandas
+jupyterlab
+matplotlib
+seaborn
+openpyxl
+xlrd
+plotly
+streamlit
+yfinance
+missingno
+scipy
+statsmodels
+pymssql==2.3.2
+mysql-connector-python
+python-dotenv
