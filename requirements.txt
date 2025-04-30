@@ -12,5 +12,5 @@ missingno
 scipy
 statsmodels
 pymssql==2.3.2
-mysql-connector-python
+mysql-connector-python # 안됨 sqlite3 배할 때 사용 못함, 이유 stremlit에서는 DB 설정한게 없음
 python-dotenv
